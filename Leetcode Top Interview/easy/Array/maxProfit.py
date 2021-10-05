@@ -1,5 +1,5 @@
 class Solution:
-
+    # 正解
     def maxProfit(self, prices: List[int]) -> int:
         
         profit = 0
@@ -9,6 +9,7 @@ class Solution:
                 
         return profit
         
+    # 上交的話會超時
     def maxProfitBruteForce(self, prices: List[int]) -> int:
         
         if len(prices) < 2:
