@@ -1,4 +1,5 @@
 class Solution:
+
     # 自己的第一種解法，別人跑很快，我寫就105ms
     def intersect(self, nums1: List[int], nums2: List[int]) -> List[int]:
         nums = []

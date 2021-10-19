@@ -1,4 +1,5 @@
 class Solution:
+
     # 正解
     def maxProfit(self, prices: List[int]) -> int:
         

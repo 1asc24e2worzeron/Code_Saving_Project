@@ -1,4 +1,6 @@
 class Solution(object):
+
+    # 自己的
     def rotate(self, nums, k):
         """
         :type nums: List[int]

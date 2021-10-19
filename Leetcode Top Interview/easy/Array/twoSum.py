@@ -1,4 +1,5 @@
 class Solution:
+
     # 自己的
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         if len(nums) == 2:

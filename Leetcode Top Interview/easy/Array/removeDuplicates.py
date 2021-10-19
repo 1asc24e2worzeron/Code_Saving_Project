@@ -1,5 +1,6 @@
 class Solution(object):
 
+    # 自己的
     def removeDuplicates(self, nums):
         """
         :type nums: List[int]
