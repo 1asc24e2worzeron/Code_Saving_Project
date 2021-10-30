@@ -1,5 +1,6 @@
 class Solution:
-    # 不知道放這種題有什麼意義
+    # 自己的，但這種題目應該沒分什麼寫法
+    # 由於太基礎，感覺有點缺乏意義
     def reverseString(self, s: List[str]) -> None:
         """
         Do not return anything, modify s in-place instead.
