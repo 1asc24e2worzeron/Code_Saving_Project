@@ -18,6 +18,7 @@ class Solution:
                 return i
         return -1
     # 自己的，嘗試利用既有函式，結果 runtime 6.27%
+    # 4856ms, 14.1MB
     def firstUniqChar(self, s: str) -> int:
         for i in range(len(s)):
             if s.count(s[i]) == 1:
