@@ -112,7 +112,7 @@ function[] = connectedComponentLabeling(adjacency, fileName) % adjacency = 4/8
             end
         end
     end
-	
+
 	outputArray
 	
 return
